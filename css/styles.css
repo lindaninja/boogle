@@ -1,0 +1,34 @@
+
+#header{
+    width:100%;
+    height:8opx;
+    text-align: right;
+}
+#content{
+    width: 300px;
+    margin: 100px auto 0px auto;
+    
+}
+#Type, #Search {
+    text-align: center;
+}
+#footer{
+    border-top: 1px solid darkgrey;
+    position:absolute;
+    bottom:0px;
+    width:100%;
+    height:80px; /*height of the footer*/
+    background:#F5F5F5;
+}
+#footer div {
+    text-align:center;
+    padding-top: 15px;
+}
+.glogo {
+    width: 300px;
+}
+a {
+    font-family: Arial;
+    color: darkgray;
+    text-decoration:none; 
+}
